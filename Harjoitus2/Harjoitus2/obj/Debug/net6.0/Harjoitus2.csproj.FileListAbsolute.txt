@@ -1,0 +1,15 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\bin\Debug\net6.0\Harjoitus2.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\bin\Debug\net6.0\Harjoitus2.deps.json
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\bin\Debug\net6.0\Harjoitus2.runtimeconfig.json
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\bin\Debug\net6.0\Harjoitus2.dll
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\bin\Debug\net6.0\Harjoitus2.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\Harjoitus2.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\Harjoitus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\Harjoitus2.AssemblyInfoInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\Harjoitus2.AssemblyInfo.cs
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\Harjoitus2.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\Harjoitus2.dll
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\refint\Harjoitus2.dll
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\Harjoitus2.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\Harjoitus2.genruntimeconfig.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus2\Harjoitus2\obj\Debug\net6.0\ref\Harjoitus2.dll

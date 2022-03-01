@@ -1,0 +1,15 @@
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.exe
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.deps.json
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.runtimeconfig.json
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.dll
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\bin\Debug\net6.0\OmaNimi.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.AssemblyInfoInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.AssemblyInfo.cs
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.dll
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\refint\OmaNimi.dll
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\OmaNimi.genruntimeconfig.cache
+C:\Users\salok\source\repos\Csharp-opinnot\OmaNimi\OmaNimi\obj\Debug\net6.0\ref\OmaNimi.dll

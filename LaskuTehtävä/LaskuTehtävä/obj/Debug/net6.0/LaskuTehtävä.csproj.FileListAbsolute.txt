@@ -1,0 +1,15 @@
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\bin\Debug\net6.0\LaskuTehtävä.exe
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\bin\Debug\net6.0\LaskuTehtävä.deps.json
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\bin\Debug\net6.0\LaskuTehtävä.runtimeconfig.json
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\bin\Debug\net6.0\LaskuTehtävä.dll
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\bin\Debug\net6.0\LaskuTehtävä.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\LaskuTehtävä.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\LaskuTehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\LaskuTehtävä.AssemblyInfoInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\LaskuTehtävä.AssemblyInfo.cs
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\LaskuTehtävä.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\LaskuTehtävä.dll
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\refint\LaskuTehtävä.dll
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\LaskuTehtävä.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\LaskuTehtävä.genruntimeconfig.cache
+C:\Users\salok\source\repos\Csharp-opinnot\LaskuTehtävä\LaskuTehtävä\obj\Debug\net6.0\ref\LaskuTehtävä.dll
