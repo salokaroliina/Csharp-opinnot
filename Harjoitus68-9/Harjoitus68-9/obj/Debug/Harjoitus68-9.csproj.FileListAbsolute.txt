@@ -1,0 +1,8 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus68-9\Harjoitus68-9\bin\Debug\Harjoitus68-9.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus68-9\Harjoitus68-9\bin\Debug\Harjoitus68-9.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus68-9\Harjoitus68-9\bin\Debug\Harjoitus68-9.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus68-9\Harjoitus68-9\obj\Debug\Harjoitus68-9.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus68-9\Harjoitus68-9\obj\Debug\Harjoitus68-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus68-9\Harjoitus68-9\obj\Debug\Harjoitus68-9.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus68-9\Harjoitus68-9\obj\Debug\Harjoitus68-9.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Harjoitus68-9\Harjoitus68-9\obj\Debug\Harjoitus68-9.pdb
