@@ -1,0 +1,11 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\bin\Debug\SalasananTarkastus.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.SalasanaForm.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\SalasananTarkastus\SalasananTarkastus\obj\Debug\SalasananTarkastus.pdb
