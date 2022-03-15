@@ -1,0 +1,11 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\obj\Debug\Laskin.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\obj\Debug\Laskin.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\obj\Debug\Laskin.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\obj\Debug\Laskin.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\obj\Debug\Laskin.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\obj\Debug\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\bin\Debug\Laskin.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\bin\Debug\Laskin.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\bin\Debug\Laskin.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\obj\Debug\Laskin.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Laskin\Laskin\obj\Debug\Laskin.pdb

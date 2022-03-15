@@ -1,0 +1,11 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\bin\Debug\Harjoitus_02.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\bin\Debug\Harjoitus_02.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\bin\Debug\Harjoitus_02.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\obj\Debug\Harjoitus_02.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\obj\Debug\Harjoitus_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\obj\Debug\Harjoitus_02.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\obj\Debug\Harjoitus_02.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\obj\Debug\Harjoitus_02.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\obj\Debug\Harjoitus_02.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\obj\Debug\Harjoitus_02.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Harjoitus_02\Harjoitus_02\obj\Debug\Harjoitus_02.pdb

@@ -1,0 +1,11 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\bin\Debug\Iän_laskeminen.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\bin\Debug\Iän_laskeminen.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\bin\Debug\Iän_laskeminen.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\obj\Debug\Iän_laskeminen.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\obj\Debug\Iän_laskeminen.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\obj\Debug\Iän_laskeminen.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\obj\Debug\Iän_laskeminen.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\obj\Debug\Iän_laskeminen.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\obj\Debug\Iän_laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\obj\Debug\Iän_laskeminen.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Iän_laskeminen\Iän_laskeminen\obj\Debug\Iän_laskeminen.pdb
