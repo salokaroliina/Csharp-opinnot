@@ -1,0 +1,11 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\bin\Debug\roomalaisetNumerot.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\bin\Debug\roomalaisetNumerot.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\bin\Debug\roomalaisetNumerot.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\roomalaisetNumerot\roomalaisetNumerot\obj\Debug\roomalaisetNumerot.pdb

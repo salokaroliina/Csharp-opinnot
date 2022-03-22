@@ -1,0 +1,11 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\bin\Debug\Autokululaskuri.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Autokululaskuri\Autokululaskuri\obj\Debug\Autokululaskuri.pdb
