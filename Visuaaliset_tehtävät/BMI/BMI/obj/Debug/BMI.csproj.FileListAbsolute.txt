@@ -1,0 +1,9 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\bin\Debug\BMI.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\bin\Debug\BMI.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\obj\Debug\BMI.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\obj\Debug\BMI.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\BMI\BMI\obj\Debug\BMI.pdb

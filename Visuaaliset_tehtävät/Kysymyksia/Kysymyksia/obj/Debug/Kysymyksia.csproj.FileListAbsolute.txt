@@ -1,0 +1,9 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\bin\Debug\Kysymyksia.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\bin\Debug\Kysymyksia.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\obj\Debug\Kysymyksia.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\obj\Debug\Kysymyksia.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\obj\Debug\Kysymyksia.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\obj\Debug\Kysymyksia.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\obj\Debug\Kysymyksia.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\obj\Debug\Kysymyksia.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kysymyksia\Kysymyksia\obj\Debug\Kysymyksia.pdb

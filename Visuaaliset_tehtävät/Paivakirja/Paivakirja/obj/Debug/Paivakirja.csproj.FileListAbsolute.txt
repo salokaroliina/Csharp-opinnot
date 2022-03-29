@@ -1,0 +1,9 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\bin\Debug\Paivakirja.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\bin\Debug\Paivakirja.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\obj\Debug\Paivakirja.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\obj\Debug\Paivakirja.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\obj\Debug\Paivakirja.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\obj\Debug\Paivakirja.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Paivakirja\Paivakirja\obj\Debug\Paivakirja.pdb

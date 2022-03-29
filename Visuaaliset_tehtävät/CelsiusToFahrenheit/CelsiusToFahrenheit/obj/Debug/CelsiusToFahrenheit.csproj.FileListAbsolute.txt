@@ -1,0 +1,9 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\bin\Debug\CelsiusToFahrenheit.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CelsiusToFahrenheit\CelsiusToFahrenheit\obj\Debug\CelsiusToFahrenheit.pdb

@@ -1,0 +1,9 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\bin\Debug\NopanHeitto.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\bin\Debug\NopanHeitto.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.Form1.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.pdb

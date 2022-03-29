@@ -1,0 +1,9 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\bin\Debug\Nimet.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\bin\Debug\Nimet.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\obj\Debug\Nimet.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\obj\Debug\Nimet.Nimet.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\obj\Debug\Nimet.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\obj\Debug\Nimet.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\obj\Debug\Nimet.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\obj\Debug\Nimet.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Nimet\Nimet\obj\Debug\Nimet.pdb
