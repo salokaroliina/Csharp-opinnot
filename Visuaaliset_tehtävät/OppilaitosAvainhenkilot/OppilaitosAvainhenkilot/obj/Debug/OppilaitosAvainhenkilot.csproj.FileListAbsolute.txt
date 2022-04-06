@@ -1,0 +1,11 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\bin\Debug\OppilaitosAvainhenkilot.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\bin\Debug\OppilaitosAvainhenkilot.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\bin\Debug\OppilaitosAvainhenkilot.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\obj\Debug\OppilaitosAvainhenkilot.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\obj\Debug\OppilaitosAvainhenkilot.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\obj\Debug\OppilaitosAvainhenkilot.AvainhenkilotForm.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\obj\Debug\OppilaitosAvainhenkilot.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\obj\Debug\OppilaitosAvainhenkilot.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\obj\Debug\OppilaitosAvainhenkilot.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\obj\Debug\OppilaitosAvainhenkilot.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\OppilaitosAvainhenkilot\OppilaitosAvainhenkilot\obj\Debug\OppilaitosAvainhenkilot.pdb

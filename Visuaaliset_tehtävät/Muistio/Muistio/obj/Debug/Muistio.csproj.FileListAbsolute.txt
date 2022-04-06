@@ -1,0 +1,12 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\bin\Debug\Muistio.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\bin\Debug\Muistio.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\bin\Debug\Muistio.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.MuistioForm.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Muistio\Muistio\obj\Debug\Muistio.tietoa.resources

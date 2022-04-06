@@ -1,0 +1,9 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\bin\Debug\Sekuntikello.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.KelloForm.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Sekuntikello\Sekuntikello\obj\Debug\Sekuntikello.pdb
