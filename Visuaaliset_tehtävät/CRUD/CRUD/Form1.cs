@@ -26,6 +26,9 @@ namespace CRUD
         private void OpiskelijaRekisteri_Load(object sender, EventArgs e)
         {
             TietotauluDG.DataSource = opiskelija.haeOpiskelijat();
+            TietotauluDG.AutoResizeColumns(DataGridViewAutoSizeColumnsMode.AllCells);
+            var datagridview = new DataGridView();
+            datagridview.RowTemplate.MinimumHeight = 125;
         }
 
         // tyhjennä-nappia painamalla tekstilaatikot tyhjentyvät

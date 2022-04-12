@@ -197,7 +197,7 @@
             this.TietotauluDG.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.TietotauluDG.Location = new System.Drawing.Point(12, 173);
             this.TietotauluDG.Name = "TietotauluDG";
-            this.TietotauluDG.Size = new System.Drawing.Size(925, 352);
+            this.TietotauluDG.Size = new System.Drawing.Size(847, 352);
             this.TietotauluDG.TabIndex = 16;
             this.TietotauluDG.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.TietotauluDG_CellContentClick);
             // 
@@ -214,7 +214,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(949, 537);
+            this.ClientSize = new System.Drawing.Size(871, 525);
             this.Controls.Add(this.IdTB);
             this.Controls.Add(this.TietotauluDG);
             this.Controls.Add(this.PoistaBT);

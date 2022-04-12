@@ -22,3 +22,4 @@ C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CRUD\CRUD\bin\
 C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
 C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CRUD\CRUD\obj\Debug\CRUD.exe
 C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\CRUD\CRUD\bin\Debug\eCryptography.dll
