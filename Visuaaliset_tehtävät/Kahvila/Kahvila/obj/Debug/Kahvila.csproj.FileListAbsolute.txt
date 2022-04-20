@@ -1,0 +1,11 @@
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\bin\Debug\Kahvila.exe.config
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\bin\Debug\Kahvila.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\bin\Debug\Kahvila.pdb
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\obj\Debug\Kahvila.csproj.AssemblyReference.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\obj\Debug\Kahvila.csproj.SuggestedBindingRedirects.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\obj\Debug\Kahvila.RuokalistaForm.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\obj\Debug\Kahvila.Properties.Resources.resources
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\obj\Debug\Kahvila.csproj.GenerateResource.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\obj\Debug\Kahvila.csproj.CoreCompileInputs.cache
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\obj\Debug\Kahvila.exe
+C:\Users\salok\source\repos\Csharp-opinnot\Visuaaliset_tehtävät\Kahvila\Kahvila\obj\Debug\Kahvila.pdb
